@@ -1,0 +1,22 @@
+{
+  "name": "webdriverframework",
+  "version": "1.0.0",
+  "description": "Webdriver IO Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "Mohamed Khattab",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "del": "^3.0.0",
+    "faker": "^4.1.0",
+    "node-localstorage": "^1.3.1",
+    "selenium-standalone": "^6.15.4",
+    "wdio-allure-reporter": "^0.8.3",
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "webdriverio": "^4.13.2"
+  }
+}
